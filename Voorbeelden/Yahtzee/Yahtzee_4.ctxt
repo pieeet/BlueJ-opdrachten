@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=class\ Yahtzee_4
+comment1.params=
+comment1.target=void\ print()
+comment10.target=dobbelsteen
+comment2.params=
+comment2.target=void\ analyseer()
+comment3.params=
+comment3.target=void\ tel()
+comment4.params=
+comment4.target=void\ gooi5()
+comment5.params=ogen
+comment5.target=int\ getAantalInWorp(int)
+comment6.target=telling
+comment7.target=worp
+comment8.params=getal
+comment8.target=int\ getAantalInTelling(int)
+comment9.params=
+comment9.target=Yahtzee_4()
+numComments=11

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=class\ Cijferlijst
+comment1.target=lijst
+comment2.params=
+comment2.target=void\ print()
+comment3.params=cijfer
+comment3.target=void\ voegtoe(double)
+comment4.params=
+comment4.target=double\ gemiddelde()
+comment5.params=
+comment5.target=Cijferlijst()
+numComments=6

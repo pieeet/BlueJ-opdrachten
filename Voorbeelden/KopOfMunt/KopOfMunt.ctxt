@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=class\ KopOfMunt
+comment1.target=dobbelsteen
+comment2.params=
+comment2.target=String\ gooi()
+comment3.params=aantalKeer
+comment3.target=String\ gooi(int)
+comment3.text=Voer\ in\ hoeveel\ keer\ er\ gegooid\ moet\ worden\ \n
+comment4.params=
+comment4.target=KopOfMunt()
+numComments=5

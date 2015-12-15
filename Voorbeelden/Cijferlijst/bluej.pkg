@@ -1,0 +1,20 @@
+#BlueJ package file
+package.editor.height=371
+package.editor.width=515
+package.editor.x=59
+package.editor.y=178
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+target1.editor.height=512
+target1.editor.width=593
+target1.editor.x=61
+target1.editor.y=106
+target1.height=50
+target1.name=Cijferlijst
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=80
+target1.x=60
+target1.y=10

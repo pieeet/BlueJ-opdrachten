@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=class\ Yahtzee_2
+comment1.target=dobbelsteen
+comment2.params=
+comment2.target=void\ print()
+comment3.params=
+comment3.target=Yahtzee_2()
+comment4.target=worp
+comment5.params=
+comment5.target=void\ gooi5()
+comment6.params=ogen
+comment6.target=int\ getAantalInWorp(int)
+numComments=7

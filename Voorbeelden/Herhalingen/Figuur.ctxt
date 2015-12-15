@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=class\ Figuur
+comment1.params=x\ y
+comment1.target=Figuur(int,int)
+comment1.text=\nMaakt\ een\ nieuw\ figuur\ object\n(x,y)\ is\ de\ posititie\ waard\ het\ tekenen\ van\ de\ figuur\ begint\n\n
+comment10.params=
+comment10.target=void\ wisTekening()
+comment11.params=aantalHoeken\ zijde
+comment11.target=void\ tekenVeelhoek(int,int)
+comment2.params=zijde
+comment2.target=void\ herhaalVierkant(int)
+comment3.target=schildpad
+comment4.params=zijde
+comment4.target=void\ tekenVierkant(int)
+comment5.params=aantalHoeken\ zijde
+comment5.target=void\ herhaalFiguur(int,int)
+comment6.params=aantalHoeken\ zijde
+comment6.target=void\ herhaalVeelhoek(int,int)
+comment7.target=y
+comment8.target=x
+comment9.params=
+comment9.target=Schildpad\ getSchildpad()
+numComments=12
